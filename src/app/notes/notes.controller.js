@@ -2,7 +2,7 @@
     "use strict";
 
     angular.module("app.notes")
-        .controller("NoteController", NoteController)
+        .controller("NoteController", NoteController);
 
     NoteController.$inject = ["$firebaseArray"];
 
@@ -26,7 +26,7 @@
         }
 
         // Will be accessible by the view
-        vm.newNote = new Note()
+        vm.newNote = new Note();
 
         vm.addNote = addNote; // Allows the view to access the addParty function
 

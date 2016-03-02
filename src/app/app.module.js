@@ -9,6 +9,6 @@
     // Custom modules
     "app.notes"
 
-    ])
+    ]);
 
-})()
+})();

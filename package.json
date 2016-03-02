@@ -1,0 +1,35 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "angular notes app",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-jslint": "^0.2.2",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0"
+  },
+  "devDependencies": {
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-jslint": "^0.2.2",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephiev/Angular-Notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephiev/Angular-Notes/issues"
+  },
+  "homepage": "https://github.com/Stephiev/Angular-Notes#readme"
+}
